@@ -1,7 +1,7 @@
 .large-hero {
     position: relative;
 
-    &__img {
+    &__bgimg {
         min-width: 100%;
         height: auto;
     }
