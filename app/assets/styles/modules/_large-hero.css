@@ -1,12 +1,18 @@
 .large-hero {
     position: relative;
+
+    &__img {
+        min-width: 100%;
+        height: auto;
+    }
+
     &__text-content {
         position: absolute;
         top: 50%;
         transform: translateY(-50%);
         left: 0;
-        width: 100%;
         text-align: center;
+        width: 100%;
     }
 
     &__title {
