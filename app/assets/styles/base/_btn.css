@@ -1,8 +1,13 @@
-.btn__blue {
+.btn {
         color: whitesmoke;
         background-color: $mainBlue;
         border: none;
         text-decoration: none;
         padding: .75rem 1.2rem;
         display: inline-block;
+
+        &--orange {
+                background-color: $mainOrange;
+        }
 }
+
