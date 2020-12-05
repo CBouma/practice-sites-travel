@@ -1,3 +1,7 @@
+/* Theme Color Variables */
 $mainBlue: #2f5572;
 $mainOrange: #d59541;
 $mainWhite: #f5f5f5;
+
+/* width Variables */
+$gutterWidth: 65px;
